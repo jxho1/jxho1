@@ -1,4 +1,10 @@
-## Hi there 👋
+About Me
+
+🚀 Computer Science @ UW
+
+💡 Interested in building scalable systems and using data + technology to drive meaningful impact
+
+🎓 B.S. in Computer Science + Minor in Business
 
 <!--
 **jxho1/jxho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
