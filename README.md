@@ -1,10 +1,15 @@
 About Me
 
-🚀 Computer Science @ UW
+🎓 B.S. in Computer Science + Minor in Business @ University of Washington Seattle
 
-💡 Interested in building scalable systems and using data + technology to drive meaningful impact
+💡 Building scalable systems that connect data, infrastructure, and real-world behavior.
 
-🎓 B.S. in Computer Science + Minor in Business
+  Focus:
+  - Backend systems & database design
+  - Full-stack application development
+  - Data-driven product experimentation
+
+
 
 <!--
 **jxho1/jxho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
